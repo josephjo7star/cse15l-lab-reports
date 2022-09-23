@@ -1,3 +1,3 @@
-# Hello，World!
+# welcome to my page!
 
-**this** formatting updates _as I type_
+**hope you are doing well**
